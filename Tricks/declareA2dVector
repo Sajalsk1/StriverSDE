@@ -1,0 +1,9 @@
+int m,n;
+    
+        cin>>m>>n;
+        
+         vector < vector < int >> matrix(m, vector < int > (m, 0));
+
+
+          vector<vector<int>> reverse(m, vector<int>(n));
+        

@@ -1,0 +1,8 @@
+int n=nums.size();
+       
+        vector <int> B;
+        
+        for (int i=0;i<n+1;i++)
+        {
+            B.push_back(0);
+        }

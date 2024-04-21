@@ -1,0 +1,5 @@
+vector < pair < int, int >> merge(vector < pair < int, int >> & arr) {
+
+    int n = arr.size();
+    sort(arr.begin(), arr.end());
+    vector < pair < int, int >> ans;

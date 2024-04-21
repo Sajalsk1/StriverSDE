@@ -1,0 +1,2 @@
+ intervals.erase(intervals.begin()+i);
+            intervals.erase(intervals.begin()+i);
